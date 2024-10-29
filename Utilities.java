@@ -25,6 +25,8 @@ public class Utilities {
         // Output the result
         System.out.println("Today's date in the format yyyy-MM-dd: " + strTodaysDate);
 
+        // Example is: 2024-10-29
+
         String animalBirthdate = "";
         int todaysYear = Integer.parseInt(strTodaysYear);
         int animalBirthYear = todaysYear - Integer.parseInt(String.valueOf(age));
