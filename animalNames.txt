@@ -1,15 +1,15 @@
-Hyena Names:
+Hyena Name:
 
 Zig
 
-Lion Names:
+Lion Name:
 
 Mufasa
 
-Bear Names:
+Bear Name:
 
 Yogi
 
-Tiger Names:
+Tiger Name:
 
 Tony
